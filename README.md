@@ -16,10 +16,3 @@
 <a href="https://github.com/okanakyol">
   <img align="center" width="49%" src="./followup-languages.svg" alt="Issue, pull request, and language metrics" />
 </a>
-
-<a href="https://github.com/okanakyol">
-  <img align="center" width="49%" src="./github-habits.svg" alt="GitHub habits metrics" />
-</a>
-<a href="https://github.com/okanakyol">
-  <img align="center" width="49%" src="./achievements.svg" alt="GitHub achievements metrics" />
-</a>
