@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.02405246787237" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="255.02405246787237" y="0" width="136.76686209303696" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="391.79091456090936" y="0" width="16.188418368382266" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.9793329292916" y="0" width="13.665576009625614" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="421.6449089389172" y="0" width="12.295500482820813" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="433.940409421738" y="0" width="10.697747957686799" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="444.63815737942485" y="0" width="9.596731426370141" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.234888805795" y="0" width="5.765111194205013" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.59200638682626" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="268.59200638682626" y="0" width="127.61693216252658" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="396.20893854935275" y="0" width="14.392620787482088" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="410.60155933683484" y="0" width="12.949653619934828" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="423.5512129567697" y="0" width="11.266896435729915" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="434.8181093924996" y="0" width="11.045167526096156" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.8632769185957" y="0" width="9.742302030941689" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.60557894953746" y="0" width="4.394421050462499" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -144,12 +144,6 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -168,6 +162,12 @@
                             <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
