@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.31538516910274" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="259.31538516910274" y="0" width="124.11112751814892" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="383.42651268725166" y="0" width="20.849554177020856" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="404.2760668642725" y="0" width="13.895528959724874" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="418.17159582399734" y="0" width="12.502398941179246" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="430.6739947651766" y="0" width="11.747554968636159" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.42154973381275" y="0" width="10.877760765091015" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.29931049890376" y="0" width="6.700689501096184" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.7958196509661" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="260.7958196509661" y="0" width="124.8196793560624" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.6154990070286" y="0" width="19.83220201730704" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.4477010243356" y="0" width="13.97485869252223" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="419.4225597168578" y="0" width="12.57377527886343" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="431.9963349957212" y="0" width="10.939862024958801" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="442.93619702068" y="0" width="10.724569047680204" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.6607660683602" y="0" width="6.339233931639761" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -165,21 +165,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Vue
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Shell
+                        JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Jupyter Notebook
                     </div>
                 </div>
             </section>
